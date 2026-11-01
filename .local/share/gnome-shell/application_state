@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-region-panel.desktop" score="0" last-seen="0"/>
+    <application id="gnome-language-selector.desktop" score="6" last-seen="1792441151"/>
+    <application id="gnome-control-center.desktop" score="44" last-seen="1792441249"/>
+    <application id="org.gnome.Terminal.desktop" score="104" last-seen="1792441968"/>
+    <application id="update-manager.desktop" score="0" last-seen="1792438450"/>
+  </context>
+</application-state>
